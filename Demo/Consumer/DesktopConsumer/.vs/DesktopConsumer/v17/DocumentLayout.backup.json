@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\consumer\\desktopconsumer\\desktopconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|solutionrelative:desktopconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\consumer\\desktopconsumer\\desktopconsumer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|solutionrelative:desktopconsumer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\consumer\\desktopconsumer\\desktopconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|solutionrelative:desktopconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\consumer\\desktopconsumer\\desktopconsumer\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6357A8C-D6F3-4B0C-AEBB-29358C9DA7F6}|DesktopConsumer\\DesktopConsumer.csproj|solutionrelative:desktopconsumer\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Department.cs",
+              "RelativeDocumentMoniker": "DesktopConsumer\\Department.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Department.cs",
+              "RelativeToolTip": "DesktopConsumer\\Department.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:36:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopConsumer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Form1.cs",
+              "RelativeToolTip": "DesktopConsumer\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:19:57.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopConsumer\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Form1.Designer.cs",
+              "RelativeToolTip": "DesktopConsumer\\Form1.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAtwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:14:49.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopConsumer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Consumer\\DesktopConsumer\\DesktopConsumer\\Form1.cs [Design]",
+              "RelativeToolTip": "DesktopConsumer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:12:30.185Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
