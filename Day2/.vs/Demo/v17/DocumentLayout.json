@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\wwwroot\\htmlconsumer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\wwwroot\\htmlconsumer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:46:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:25:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Models\\Department.cs",
+              "RelativeToolTip": "Demo\\Models\\Department.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:05:56.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:42:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HTMLConsumer.html",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\wwwroot\\HTMLConsumer.html",
+              "RelativeDocumentMoniker": "Demo\\wwwroot\\HTMLConsumer.html",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\wwwroot\\HTMLConsumer.html",
+              "RelativeToolTip": "Demo\\wwwroot\\HTMLConsumer.html",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T17:32:47.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
