@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Migrations\\20240913192246_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20240913192246_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\models\\itientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\models\\itientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|c:\\users\\win10\\desktop\\webapi\\webapi\\day1\\demo\\demo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BDC506-AFF9-43DC-A9CC-47FD68C2F714}|Demo\\Demo.csproj|solutionrelative:demo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:30:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T20:33:46.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:43:38.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEUAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:24:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240913192246_a.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Migrations\\20240913192246_a.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20240913192246_a.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Migrations\\20240913192246_a.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20240913192246_a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:22:46.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITIEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Models\\ITIEntity.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\ITIEntity.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Models\\ITIEntity.cs",
+              "RelativeToolTip": "Demo\\Models\\ITIEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:21:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\WebApi\\WebApi\\Day1\\Demo\\Demo\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Demo\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:21:38.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
